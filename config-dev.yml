@@ -1,5 +1,4 @@
 config:
   info: "master branch,springcloud-config/config-dev.yml version=7" 
- 
- name: xy
- age: 22
+  name: xy
+  age: 22
